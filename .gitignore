@@ -5,13 +5,13 @@
 *.sln.DotSettings.user
 
 # Ignore temporary and binary files
-/bin/
-/obj/
-/packages/
+bin/
+obj/
+packages/
 *.config.user
 
 # Ignore properties directory
-/Properties/
+Properties/
 
 # Ignore solution files
 *.sln
