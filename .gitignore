@@ -1,0 +1,30 @@
+# Ignore JetBrains Rider files
+.idea/
+*.suo
+*.sln.iml
+*.sln.DotSettings.user
+
+# Ignore temporary and binary files
+/bin/
+/obj/
+/packages/
+*.config.user
+
+# Ignore properties directory
+/Properties/
+
+# Ignore solution files
+*.sln
+
+# Ignor exe files
+*.exe
+
+# Ignore C# project files
+*.csproj
+
+# Ignore logs
+*.log
+
+# Ignore Word and PDF Documents
+*.docx
+*.pdf
