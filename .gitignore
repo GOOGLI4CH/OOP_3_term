@@ -4,11 +4,15 @@
 *.sln.iml
 *.sln.DotSettings.user
 
+#Ignore Visual Studio files
+.vs/
+
 # Ignore temporary and binary files
 bin/
 obj/
 packages/
 *.config.user
+*.config
 
 # Ignore properties directory
 Properties/
