@@ -28,7 +28,3 @@ Properties/
 
 # Ignore logs
 *.log
-
-# Ignore Word and PDF Documents
-*.docx
-*.pdf
